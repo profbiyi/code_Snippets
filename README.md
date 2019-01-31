@@ -1,2 +1,2 @@
-# code_Snippets
+# code_snippets
 My simple solutions to everyday issues
