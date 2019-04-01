@@ -1,2 +1,2 @@
 # code_snippets
-My simple solutions to everyday issues
+My simple solutions to everyday programming issues
